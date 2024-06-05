@@ -29,4 +29,6 @@ Android Studio, эмулированное устройство - Honor 8, ОС 
 
 [ссылка на проект в Youtrack с баг-репортами](https://gorgeous.youtrack.cloud/projects/71d1dab2-01da-4d76-9e1e-4eb36d78dbde)
 
+![багреп](https://github.com/GorgeousTV/Yandex-Metro/assets/144271169/bf106f62-40e4-419e-8669-471902fad9ba)
+
 ![бублик2](https://github.com/GorgeousTV/Yandex-Metro/assets/144271169/0b8b38ac-09a2-4178-bca1-6f21e4125593) ![бублик1](https://github.com/GorgeousTV/Yandex-Metro/assets/144271169/80e0e3ff-780c-4b94-a43c-cb6cfe4b0f3f)
